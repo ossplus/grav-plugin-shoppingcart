@@ -1,20 +1,20 @@
 name: Shopping Cart
 version: 1.2.3
-description: "This plugin turns your Grav site into a shopping cart"
+description: "This plugin turns your Grav site into a shopping cart. Forked from Flavio Copes, for my site."
 icon: shopping-cart
 author:
   name: Flavio Copes
-  email: copesc@gmail.com
-  url: https://flaviocopes.com
-homepage: https://gravcart.com/
+  email: hello@gmplab.com
+  url: https://corp.gmplab.com
+homepage: https://corp.gmplab.com
 keywords: shoppingcart, ecommerce, e-commerce, plugin, shop, cart
-readme: https://gravcart.com/docs
-bugs: https://github.com/flaviocopes/grav-plugin-shoppingcart/issues
+readme: https://corp.gmplab.com/contact
+bugs: https://github.com/gmplab/grav-plugin-shoppingcart/issues
 license: MIT
 
 dependencies:
   - { name: grav, version: '~1.1' }
-  - { name: form, version: '~2.0' }
+  - { name: form, version: '^2.0 || ^3.0 || ^4.0' }
 
 form:
   validation: loose
