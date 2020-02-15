@@ -1,8 +1,6 @@
 # Grav Shopping Cart Plugin
-
-[![Join the chat at https://gitter.im/flaviocopes/grav-plugin-shoppingcart](https://badges.gitter.im/flaviocopes/grav-plugin-shoppingcart.svg)](https://gitter.im/flaviocopes/grav-plugin-shoppingcart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Refer to the documentation on the [Shopping Cart Plugin site](https://gravcart.com/docs)
+Forked by gmplab
+Refer to the documentation on the [GMPLab-Google Marketing Practitioner](https://corp.gmplab.com)
 
 ## Running Tests
 
