@@ -1,6 +1,6 @@
 # Grav Shopping Cart Plugin
-Forked for gmplab   
-Refer to the documentation on the [GMPLab-Google Marketing Player](https://corp.gmplab.com)
+Forked for ossplus   
+Refer to the documentation on the [Ossplus Metal Fabrication](https://www.ossplus.com)
 
 ## Running Tests
 
